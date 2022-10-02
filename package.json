@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@faire/mjml-react": "^2.1.4",
     "mjml-react": "^2.0.5",
     "next": "12.3.1",
     "postmark": "^3.0.14",

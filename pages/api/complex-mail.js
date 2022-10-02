@@ -1,4 +1,4 @@
-import * as mjmlReact from "mjml-react";
+import * as mjmlReact from "@faire/mjml-react";
 
 export default async function handler(req, res) {
   // Require:
