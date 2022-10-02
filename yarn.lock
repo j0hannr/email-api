@@ -1785,7 +1785,7 @@
     "lodash" "^4.17.21"
     "mjml-core" "4.13.0"
 
-"mjml-react@^2.0.8":
+"mjml-react@^2.0.5":
   "integrity" "sha512-3wtHZZs1Y7e7Tl+ImojD/+aPE8Z0xshMww7MKSQlD9A1E/92amWQilGZN3T+WjWWaDueKcH2Gc1RJ72PLGSRGA=="
   "resolved" "https://registry.npmjs.org/mjml-react/-/mjml-react-2.0.8.tgz"
   "version" "2.0.8"
