@@ -1857,7 +1857,7 @@
     "mjml-core" "4.13.0"
     "mjml-section" "4.13.0"
 
-"mjml@^4.7.0":
+"mjml@^4.13.0", "mjml@^4.7.0":
   "integrity" "sha512-OnFKESouLshz8DPFSb6M/dE8GkhiJnoy6LAam5TiLA1anAj24yQ2ZH388LtQoEkvTisqwiTmc9ejDh5ctnFaJQ=="
   "resolved" "https://registry.npmjs.org/mjml/-/mjml-4.13.0.tgz"
   "version" "4.13.0"
